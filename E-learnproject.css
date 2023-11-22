@@ -1,0 +1,165 @@
+
+#training h4, p{
+    text-align: center;
+}
+#training1{
+    width: 30%;  
+}
+#training{
+    padding: 20px;
+}
+#training figure{
+    text-align: center;
+    padding-top: 20px;
+}
+#WhyChooseus p{
+    text-align: start;
+}
+#WhyChooseus h4{
+    color: rgba(207, 46, 46, 0.829);
+}
+#StudentsWhattheysay p{
+    text-align: start;
+
+}
+#Placements div{
+    padding-bottom: 15px;
+    border-radius: 2px;
+}
+#approach0 figure{
+    background-color: gray;
+    text-align: center;
+    padding: 15px;
+}
+#approach0 figure figcaption{
+    padding: 10px;
+}
+#StudentsPlaced div{
+    padding-left: 10%;
+    padding-bottom: 30px;
+    
+}
+#StudentsPlacedm{
+    padding: 2%;
+}
+#StudentsPlacedm input{
+    text-align: center;
+    border: none;
+}
+#foot1 div {
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#foot22 p{
+    text-align:left;
+    padding-left: 100px;
+    padding-top: 5px;
+
+}
+
+#foot22a{
+    background-color:rgba(128, 128, 128, 0.555);
+}   
+
+#Third div p{
+    text-align: justify;
+    margin: 22px;
+}
+#Third div input{
+    width: 350px;
+    padding: 22px;
+    margin: 10px;
+    height: 50px;
+}
+
+#thirdregister{
+    width:400px;
+    
+}
+#thirdregisternow{
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-size: x-large;
+}
+
+#thirdregistersub{
+    background-color: rgba(26, 10, 99, 0.705);
+    color: white;
+    font-size: larger; 
+    
+}
+#coursed{
+    padding-left: 15%;
+    
+}
+#para{
+    width: 100%;
+    
+}
+.item1{
+    width: 50%;
+    float: left;
+}
+.item2{
+    width: 50%;
+    float: left;
+}
+.item{
+    float: left;
+}
+
+.collapse{
+    padding-left: 75px;
+    font-size: 15px;
+}
+.dropdown:hover .dropdown-menu{
+    display:block;
+    background-color: blue;
+}
+.dropdown .dropdown-item{
+    color: white;
+    background-color: blue;
+}
+.navbar{
+    position: sticky;
+    top: 0;
+    z-index: 3;
+   
+}
+#call{
+    position: fixed;
+    top: 80%;
+    left: 15px;
+    font-size: 50px;
+    color: red;
+}
+#call p{
+    font-size: 18px;
+    z-index: 2;
+}
+#support{
+    position: fixed;
+    top: 80%;
+    left: 90%;
+    font-size: 70px;
+    color: red;
+    z-index: 2;
+}
+#support p{
+    font-size: 12px;
+    font-weight: bold;
+}
+#heading{
+    text-align: center;
+}
+#heading span{
+    color: brown;
+}
+
+
+
+
+
+
