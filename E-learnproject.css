@@ -1,3 +1,6 @@
+#firstsec{
+    overflow:hidden;
+}
 
 #training h4, p{
     text-align: center;
@@ -157,6 +160,84 @@
 #heading span{
     color: brown;
 }
+#headabout{
+    background-color: rgba(0, 0, 255, 0.568);
+    padding-left: 20%;
+    color: white;
+}
+span{
+    color: brown;
+}
+
+.QEnquery{
+    border: 20px solid red;
+    border: none;
+    background-color: rgb(109, 165, 214);
+    margin: 15px;
+}
+.QEnquery h5{
+    text-align: center;
+    /* text-decoration:underline; */
+    border-bottom: 1px solid #000;
+}
+#address{
+    border:2px solid red;
+    background-color:rgb(109, 165, 214);
+    margin-top: 15px;
+    margin-bottom: 11px;
+    color: white;
+    font-size: 16px;
+
+}
+#homelink{
+    color: white;
+    text-decoration:none;
+    
+}
+.Recentplaceimg{
+    width: 100%;
+    height: 100%;
+
+}
+#placedcompanies div{
+ margin-left: 200px;
+  
+}
+#reg{
+    margin-left: 180px;
+    justify-content: center;
+}
+#Privacypolicy p{
+    text-align: start;
+    text-align: justify;
+}
+#Refundpolicy p{
+    text-align: start;
+    text-align: justify;
+}
+#Quicklinks a{
+    color: white;
+    text-decoration: none;
+    text-align: start;
+    
+}
+.crp:hover{
+    font-size: 16px;
+    width: 116px;
+    margin-left: 5px;
+    color: yellow;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Homecourses img:hover{
+transform: translate(1%);
+}
+
+
+    
+
+
+    
+
 
 
 
